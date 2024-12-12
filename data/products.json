@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Mochila Arhuaca",
+        "description": "Hecho a mano con diseño único.",
+        "price": 20.00,
+        "image": "img/mochila.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bufanda de Lana",
+        "description": "Tejido artesanal de alta calidad.",
+        "price": 15.00,
+        "image": "img/bufanda.jpg"
+    }
+]
